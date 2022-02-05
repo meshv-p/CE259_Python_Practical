@@ -1,7 +1,7 @@
 '''
     Name: Meshv U Patel
     Id: 20CE092
-    Link: https://github.com/meshv-p/CE259_Practical-2_Assignment.git
+    Link: https://github.com/meshv-p/CE259_Python_Practical
 '''
 
 Score_times = int(input())
