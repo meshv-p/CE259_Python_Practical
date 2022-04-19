@@ -1,9 +1,9 @@
 # Complete django tutorial(part 1 to part 7) from the official document.
 # https://docs.djangoproject.com/en/4.0/
 
-# Name: Aksh k Desai
-# Id: 20CE020
-# Github Repository Link: https://github.com/AKSHDESAI1/CE259_Python_Practicals.git
+# Name: Meshv Patel
+# Id: 20CE092
+# Github Repository Link: https://github.com/meshv-p/CE259_Python_Practical
 '''
 => Part1:- 
 In part 1 I learned;

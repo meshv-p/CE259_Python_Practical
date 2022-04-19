@@ -1,7 +1,7 @@
 # Explain about the different types of Exceptions in Python with suitable example./
-# Name: Aksh k Desai
-# Id: 20CE020
-# Github Repository Link: https://github.com/AKSHDESAI1/CE259_Python_Practicals.git
+# Name: Meshv Patel
+# Id: 20CE092
+# Github Repository Link: https://github.com/meshv-p/CE259_Python_Practical
 
 try:
     a = 10/0

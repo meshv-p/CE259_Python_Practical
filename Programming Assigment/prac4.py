@@ -4,9 +4,9 @@
 # is equal to  K.
 
 
-# Name: Aksh k Desai
-# Id: 20CE020
-# Github Repository Link: https://github.com/AKSHDESAI1/CE259_Python_Practicals.git
+# Name: Meshv Patel
+# Id: 20CE092
+# Github Repository Link: https://github.com/meshv-p/CE259_Python_Practical
 
 from itertools import combinations
 

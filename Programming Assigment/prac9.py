@@ -1,9 +1,9 @@
 # Write Pythonic code to create a function named moverectangle() that takes  an object of Rectangle class and two numbers named dx and dy. It should  change the location of the Rectangle by adding dx to the x coordinate of
 # corner and adding dy to the y coordinate of corner
 
-#  Name: Aksh k Desai
-# Id: 20CE020
-# Github Repository Link: https://github.com/AKSHDESAI1/CE259_Python_Practicals.git
+#  Name: Meshv Patel
+# Id: 20CE092
+# Github Repository Link: https://github.com/meshv-p/CE259_Python_Practical
 
 class Point(object):
     """Represent a Point Class"""
